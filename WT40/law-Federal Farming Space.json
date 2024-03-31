@@ -6,7 +6,7 @@
   "type": "Eco.Gameplay.Civics.Laws.Law",
   "name": "Federal Farming Space",
   "reference": false,
-  "description": "Goverment farmland \n\nThe Title of \"Federal Farmer\" is given out by the Minister of Infrastructure\n\nRegulations\n\n1) Only one plot per title (more may be given out later).\n \n2) Taking from a plot that is not yours will be met by a fine of 250 Euros, and you will lose the title.",
+  "description": "Government Farmland \n\nThe Title of \"Federal Farmer\" is given out by the Minister of Infrastructure\n\nRegulations\n\n1) Only one plot per title (more may be given out later).\n \n2) Taking from a plot that is not yours will be met by a fine of 250 Euros, and you will lose the title.",
   "properties": {
     "Sections": [
       {
